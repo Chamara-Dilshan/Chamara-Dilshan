@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chamara</h1>
 <h3 align="center">Driven Fullstack Developer from the Pearl of the Indian Ocean - Ceylon</h3>
+<p align="left"> <a href="https://twitter.com/chamara11240" target="blank"><img src="https://img.shields.io/twitter/follow/chamara11240?logo=twitter&style=for-the-badge" alt="chamara11240" /></a> </p>
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47h9bpjzdt5u8kc5eqkp7gl43ycistd36lynwczxww&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🌱 I’m currently learning **Flutter, React native, Android**
 
